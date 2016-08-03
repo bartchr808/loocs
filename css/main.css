@@ -10,10 +10,19 @@ background-color:##403f3f;
     font-family: 'Bungee Shade', cursive;
     font-size: 100px;
 }
+
+#textChangeWrapper {
+    width: 50%;
+    margin: 0 auto;
+}
+
+
 .programTitle {
     font-family: 'Lobster', cursive;
     font-size: 70px;
-
+    float: left;
+    padding: 30% 0 0 0%;
+    margin: -0.5% 1% 0 0;
 }
 
 .welcomeTitle{
